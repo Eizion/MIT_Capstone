@@ -46,7 +46,7 @@
 	</div>
 	
 	<footer class="footer">
-		<p>MIST 7570 Final by Daniel Crittenden and Joe Vo</p>
+		<p>Power Rangers</p>
 	</footer>
 	
 </body>
