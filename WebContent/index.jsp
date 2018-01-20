@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <link type="text/css" rel="stylesheet" href="resources/css/stylesheet.css"/>
-<title>Online Store - Login</title>
+<title>SRCUS</title>
 </head>
 <body>
 
