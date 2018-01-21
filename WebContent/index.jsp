@@ -5,14 +5,14 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <link type="text/css" rel="stylesheet" href="resources/css/stylesheet.css"/>
-<title>SRCUS</title>
+<title>Southeast Regional Credit Union Schools Web Portal</title>
 </head>
 <body>
 
 	<div class="header">
     	<div class="nav">    				
 		</div>		
-		<h2 style="font-family: Verdana">MIST 7570 Final</h2>        
+		<h2 style="font-family: Verdana">Southeast Regional Credit Union Schools Web Portal</h2>        
 	</div>
     
     <div class="wrapper">
@@ -33,7 +33,7 @@
 					</tr>
 					<tr>
 						<td><input type="submit" value="Login"></td>
-						<td><a href="registerForm.jsp">Register</a></td>
+						<td><a href="registerUser.jsp">Register</a></td>
 					</tr>
 				</table>
 				${errorMessage}
